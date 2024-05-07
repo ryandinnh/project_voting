@@ -1,126 +1,256 @@
- 
-    Table 1:     Sex by Age
+data\county_data\0002_ds191_20125_county_E.csv:
+Year:             2008-2012
+Relevant Variables:
+Table 1:     Sex by Age
     Universe:    Total population
     Source code: B01001
-    NHGIS code:  JLZ
-        JLZM001:     Total
-        JLZM002:     Male
-        JLZM003:     Male: Under 5 years
-        JLZM004:     Male: 5 to 9 years
-        JLZM005:     Male: 10 to 14 years
-        JLZM006:     Male: 15 to 17 years
-        JLZM007:     Male: 18 and 19 years
-        JLZM008:     Male: 20 years
-        JLZM009:     Male: 21 years
-        JLZM010:     Male: 22 to 24 years
-        JLZM011:     Male: 25 to 29 years
-        JLZM012:     Male: 30 to 34 years
-        JLZM013:     Male: 35 to 39 years
-        JLZM014:     Male: 40 to 44 years
-        JLZM015:     Male: 45 to 49 years
-        JLZM016:     Male: 50 to 54 years
-        JLZM017:     Male: 55 to 59 years
-        JLZM018:     Male: 60 and 61 years
-        JLZM019:     Male: 62 to 64 years
-        JLZM020:     Male: 65 and 66 years
-        JLZM021:     Male: 67 to 69 years
-        JLZM022:     Male: 70 to 74 years
-        JLZM023:     Male: 75 to 79 years
-        JLZM024:     Male: 80 to 84 years
-        JLZM025:     Male: 85 years and over
-        JLZM026:     Female
-        JLZM027:     Female: Under 5 years
-        JLZM028:     Female: 5 to 9 years
-        JLZM029:     Female: 10 to 14 years
-        JLZM030:     Female: 15 to 17 years
-        JLZM031:     Female: 18 and 19 years
-        JLZM032:     Female: 20 years
-        JLZM033:     Female: 21 years
-        JLZM034:     Female: 22 to 24 years
-        JLZM035:     Female: 25 to 29 years
-        JLZM036:     Female: 30 to 34 years
-        JLZM037:     Female: 35 to 39 years
-        JLZM038:     Female: 40 to 44 years
-        JLZM039:     Female: 45 to 49 years
-        JLZM040:     Female: 50 to 54 years
-        JLZM041:     Female: 55 to 59 years
-        JLZM042:     Female: 60 and 61 years
-        JLZM043:     Female: 62 to 64 years
-        JLZM044:     Female: 65 and 66 years
-        JLZM045:     Female: 67 to 69 years
-        JLZM046:     Female: 70 to 74 years
-        JLZM047:     Female: 75 to 79 years
-        JLZM048:     Female: 80 to 84 years
-        JLZM049:     Female: 85 years and over
+    NHGIS code:  QSE
+        QSEE001:     Total
+        QSEE002:     Male
+        QSEE003:     Male: Under 5 years
+        QSEE004:     Male: 5 to 9 years
+        QSEE005:     Male: 10 to 14 years
+        QSEE006:     Male: 15 to 17 years
+        QSEE007:     Male: 18 and 19 years
+        QSEE008:     Male: 20 years
+        QSEE009:     Male: 21 years
+        QSEE010:     Male: 22 to 24 years
+        QSEE011:     Male: 25 to 29 years
+        QSEE012:     Male: 30 to 34 years
+        QSEE013:     Male: 35 to 39 years
+        QSEE014:     Male: 40 to 44 years
+        QSEE015:     Male: 45 to 49 years
+        QSEE016:     Male: 50 to 54 years
+        QSEE017:     Male: 55 to 59 years
+        QSEE018:     Male: 60 and 61 years
+        QSEE019:     Male: 62 to 64 years
+        QSEE020:     Male: 65 and 66 years
+        QSEE021:     Male: 67 to 69 years
+        QSEE022:     Male: 70 to 74 years
+        QSEE023:     Male: 75 to 79 years
+        QSEE024:     Male: 80 to 84 years
+        QSEE025:     Male: 85 years and over
+        QSEE026:     Female
+        QSEE027:     Female: Under 5 years
+        QSEE028:     Female: 5 to 9 years
+        QSEE029:     Female: 10 to 14 years
+        QSEE030:     Female: 15 to 17 years
+        QSEE031:     Female: 18 and 19 years
+        QSEE032:     Female: 20 years
+        QSEE033:     Female: 21 years
+        QSEE034:     Female: 22 to 24 years
+        QSEE035:     Female: 25 to 29 years
+        QSEE036:     Female: 30 to 34 years
+        QSEE037:     Female: 35 to 39 years
+        QSEE038:     Female: 40 to 44 years
+        QSEE039:     Female: 45 to 49 years
+        QSEE040:     Female: 50 to 54 years
+        QSEE041:     Female: 55 to 59 years
+        QSEE042:     Female: 60 and 61 years
+        QSEE043:     Female: 62 to 64 years
+        QSEE044:     Female: 65 and 66 years
+        QSEE045:     Female: 67 to 69 years
+        QSEE046:     Female: 70 to 74 years
+        QSEE047:     Female: 75 to 79 years
+        QSEE048:     Female: 80 to 84 years
+        QSEE049:     Female: 85 years and over
 
-  Table 4:     Race
+Table 3:     Race
     Universe:    Total population
     Source code: B02001
-    NHGIS code:  JMB
-        JMBM001:     Total
-        JMBM002:     White alone
-        JMBM003:     Black or African American alone
-        JMBM004:     American Indian and Alaska Native alone
-        JMBM005:     Asian alone
-        JMBM006:     Native Hawaiian and Other Pacific Islander alone
-        JMBM007:     Some other race alone
-        JMBM008:     Two or more races
-        JMBM009:     Two or more races: Two races including Some other race
-        JMBM010:     Two or more races: Two races excluding Some other race, and three or more races
+    NHGIS code:  QSQ
+        QSQE001:     Total
+        QSQE002:     White alone
+        QSQE003:     Black or African American alone
+        QSQE004:     American Indian and Alaska Native alone
+        QSQE005:     Asian alone
+        QSQE006:     Native Hawaiian and Other Pacific Islander alone
+        QSQE007:     Some other race alone
+        QSQE008:     Two or more races
+        QSQE009:     Two or more races: Two races including Some other race
+        QSQE010:     Two or more races: Two races excluding Some other race, and three or more races
 
-    Table 7:     Ratio of Income to Poverty Level in the Past 12 Months
+Table 6:     Ratio of Income to Poverty Level in the Past 12 Months
     Universe:    Population for whom poverty status is determined
     Source code: C17002
-    NHGIS code:  JOC
-        JOCM001:     Total
-        JOCM002:     Under .50
-        JOCM003:     .50 to .99
-        JOCM004:     1.00 to 1.24
-        JOCM005:     1.25 to 1.49
-        JOCM006:     1.50 to 1.84
-        JOCM007:     1.85 to 1.99
-        JOCM008:     2.00 and over
+    NHGIS code:  QUV
+        QUVE001:     Total
+        QUVE002:     Under .50
+        QUVE003:     .50 to .99
+        QUVE004:     1.00 to 1.24
+        QUVE005:     1.25 to 1.49
+        QUVE006:     1.50 to 1.84
+        QUVE007:     1.85 to 1.99
+        QUVE008:     2.00 and over
 
-    Table 6:     Sex by Educational Attainment for the Population 25 Years and Over
-    Universe:    Population 25 years and over
-    Source code: B15002
-    NHGIS code:  JN9
-        JN9M001:     Total
-        JN9M002:     Male
-        JN9M003:     Male: No schooling completed
-        JN9M004:     Male: Nursery to 4th grade
-        JN9M005:     Male: 5th and 6th grade
-        JN9M006:     Male: 7th and 8th grade
-        JN9M007:     Male: 9th grade
-        JN9M008:     Male: 10th grade
-        JN9M009:     Male: 11th grade
-        JN9M010:     Male: 12th grade, no diploma
-        JN9M011:     Male: High school graduate, GED, or alternative
-        JN9M012:     Male: Some college, less than 1 year
-        JN9M013:     Male: Some college, 1 or more years, no degree
-        JN9M014:     Male: Associate's degree
-        JN9M015:     Male: Bachelor's degree
-        JN9M016:     Male: Master's degree
-        JN9M017:     Male: Professional school degree
-        JN9M018:     Male: Doctorate degree
-        JN9M019:     Female
-        JN9M020:     Female: No schooling completed
-        JN9M021:     Female: Nursery to 4th grade
-        JN9M022:     Female: 5th and 6th grade
-        JN9M023:     Female: 7th and 8th grade
-        JN9M024:     Female: 9th grade
-        JN9M025:     Female: 10th grade
-        JN9M026:     Female: 11th grade
-        JN9M027:     Female: 12th grade, no diploma
-        JN9M028:     Female: High school graduate, GED, or alternative
-        JN9M029:     Female: Some college, less than 1 year
-        JN9M030:     Female: Some college, 1 or more years, no degree
-        JN9M031:     Female: Associate's degree
-        JN9M032:     Female: Bachelor's degree
-        JN9M033:     Female: Master's degree
-        JN9M034:     Female: Professional school degree
-        JN9M035:     Female: Doctorate degree
+data\county_data\0002_ds225_20165_county_E_codebook.txt:
+Year:             2012-2016
+Table 1:     Sex by Age
+    Universe:    Total population
+    Source code: B01001
+    NHGIS code:  AF2A
+        AF2AE001:    Total
+        AF2AE002:    Male
+        AF2AE003:    Male: Under 5 years
+        AF2AE004:    Male: 5 to 9 years
+        AF2AE005:    Male: 10 to 14 years
+        AF2AE006:    Male: 15 to 17 years
+        AF2AE007:    Male: 18 and 19 years
+        AF2AE008:    Male: 20 years
+        AF2AE009:    Male: 21 years
+        AF2AE010:    Male: 22 to 24 years
+        AF2AE011:    Male: 25 to 29 years
+        AF2AE012:    Male: 30 to 34 years
+        AF2AE013:    Male: 35 to 39 years
+        AF2AE014:    Male: 40 to 44 years
+        AF2AE015:    Male: 45 to 49 years
+        AF2AE016:    Male: 50 to 54 years
+        AF2AE017:    Male: 55 to 59 years
+        AF2AE018:    Male: 60 and 61 years
+        AF2AE019:    Male: 62 to 64 years
+        AF2AE020:    Male: 65 and 66 years
+        AF2AE021:    Male: 67 to 69 years
+        AF2AE022:    Male: 70 to 74 years
+        AF2AE023:    Male: 75 to 79 years
+        AF2AE024:    Male: 80 to 84 years
+        AF2AE025:    Male: 85 years and over
+        AF2AE026:    Female
+        AF2AE027:    Female: Under 5 years
+        AF2AE028:    Female: 5 to 9 years
+        AF2AE029:    Female: 10 to 14 years
+        AF2AE030:    Female: 15 to 17 years
+        AF2AE031:    Female: 18 and 19 years
+        AF2AE032:    Female: 20 years
+        AF2AE033:    Female: 21 years
+        AF2AE034:    Female: 22 to 24 years
+        AF2AE035:    Female: 25 to 29 years
+        AF2AE036:    Female: 30 to 34 years
+        AF2AE037:    Female: 35 to 39 years
+        AF2AE038:    Female: 40 to 44 years
+        AF2AE039:    Female: 45 to 49 years
+        AF2AE040:    Female: 50 to 54 years
+        AF2AE041:    Female: 55 to 59 years
+        AF2AE042:    Female: 60 and 61 years
+        AF2AE043:    Female: 62 to 64 years
+        AF2AE044:    Female: 65 and 66 years
+        AF2AE045:    Female: 67 to 69 years
+        AF2AE046:    Female: 70 to 74 years
+        AF2AE047:    Female: 75 to 79 years
+        AF2AE048:    Female: 80 to 84 years
+        AF2AE049:    Female: 85 years and over
+ 
+ Table 3:     Race
+    Universe:    Total population
+    Source code: B02001
+    NHGIS code:  AF2M
+        AF2ME001:    Total
+        AF2ME002:    White alone
+        AF2ME003:    Black or African American alone
+        AF2ME004:    American Indian and Alaska Native alone
+        AF2ME005:    Asian alone
+        AF2ME006:    Native Hawaiian and Other Pacific Islander alone
+        AF2ME007:    Some other race alone
+        AF2ME008:    Two or more races
+        AF2ME009:    Two or more races: Two races including Some other race
+        AF2ME010:    Two or more races: Two races excluding Some other race, and three or more races
+ 
+ Table 6:     Ratio of Income to Poverty Level in the Past 12 Months
+    Universe:    Population for whom poverty status is determined
+    Source code: C17002
+    NHGIS code:  AF43
+        AF43E001:    Total
+        AF43E002:    Under .50
+        AF43E003:    .50 to .99
+        AF43E004:    1.00 to 1.24
+        AF43E005:    1.25 to 1.49
+        AF43E006:    1.50 to 1.84
+        AF43E007:    1.85 to 1.99
+        AF43E008:    2.00 and over
 
+data\county_data\0002_ds250_20205_county_E_codebook.txt:
+Year:             2016-2020
+Table 1:     Sex by Age
+    Universe:    Total population
+    Source code: B01001
+    NHGIS code:  AMPK
+        AMPKE001:    Total
+        AMPKE002:    Male
+        AMPKE003:    Male: Under 5 years
+        AMPKE004:    Male: 5 to 9 years
+        AMPKE005:    Male: 10 to 14 years
+        AMPKE006:    Male: 15 to 17 years
+        AMPKE007:    Male: 18 and 19 years
+        AMPKE008:    Male: 20 years
+        AMPKE009:    Male: 21 years
+        AMPKE010:    Male: 22 to 24 years
+        AMPKE011:    Male: 25 to 29 years
+        AMPKE012:    Male: 30 to 34 years
+        AMPKE013:    Male: 35 to 39 years
+        AMPKE014:    Male: 40 to 44 years
+        AMPKE015:    Male: 45 to 49 years
+        AMPKE016:    Male: 50 to 54 years
+        AMPKE017:    Male: 55 to 59 years
+        AMPKE018:    Male: 60 and 61 years
+        AMPKE019:    Male: 62 to 64 years
+        AMPKE020:    Male: 65 and 66 years
+        AMPKE021:    Male: 67 to 69 years
+        AMPKE022:    Male: 70 to 74 years
+        AMPKE023:    Male: 75 to 79 years
+        AMPKE024:    Male: 80 to 84 years
+        AMPKE025:    Male: 85 years and over
+        AMPKE026:    Female
+        AMPKE027:    Female: Under 5 years
+        AMPKE028:    Female: 5 to 9 years
+        AMPKE029:    Female: 10 to 14 years
+        AMPKE030:    Female: 15 to 17 years
+        AMPKE031:    Female: 18 and 19 years
+        AMPKE032:    Female: 20 years
+        AMPKE033:    Female: 21 years
+        AMPKE034:    Female: 22 to 24 years
+        AMPKE035:    Female: 25 to 29 years
+        AMPKE036:    Female: 30 to 34 years
+        AMPKE037:    Female: 35 to 39 years
+        AMPKE038:    Female: 40 to 44 years
+        AMPKE039:    Female: 45 to 49 years
+        AMPKE040:    Female: 50 to 54 years
+        AMPKE041:    Female: 55 to 59 years
+        AMPKE042:    Female: 60 and 61 years
+        AMPKE043:    Female: 62 to 64 years
+        AMPKE044:    Female: 65 and 66 years
+        AMPKE045:    Female: 67 to 69 years
+        AMPKE046:    Female: 70 to 74 years
+        AMPKE047:    Female: 75 to 79 years
+        AMPKE048:    Female: 80 to 84 years
+        AMPKE049:    Female: 85 years and over
+ 
+ Table 4:     Race
+    Universe:    Total population
+    Source code: B02001
+    NHGIS code:  AMPW
+        AMPWE001:    Total
+        AMPWE002:    White alone
+        AMPWE003:    Black or African American alone
+        AMPWE004:    American Indian and Alaska Native alone
+        AMPWE005:    Asian alone
+        AMPWE006:    Native Hawaiian and Other Pacific Islander alone
+        AMPWE007:    Some other race alone
+        AMPWE008:    Two or more races
+        AMPWE009:    Two or more races: Two races including Some other race
+        AMPWE010:    Two or more races: Two races excluding Some other race, and three or more races
+
+Table 21:    Ratio of Income to Poverty Level in the Past 12 Months
+    Universe:    Population for whom poverty status is determined
+    Source code: C17002
+    NHGIS code:  AMZM
+        AMZME001:    Total
+        AMZME002:    Under .50
+        AMZME003:    .50 to .99
+        AMZME004:    1.00 to 1.24
+        AMZME005:    1.25 to 1.49
+        AMZME006:    1.50 to 1.84
+        AMZME007:    1.85 to 1.99
+        AMZME008:    2.00 and over
+        
 Only include education if we need it
 
 Model: Random forest
